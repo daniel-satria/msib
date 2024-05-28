@@ -6,8 +6,7 @@ XXX can be attained with opinion mining as well. The implementation is similar w
 <br>
 
 
-# A2. Abstract : XX's Project for News Classifier Analysis
-# Natural Language Processing and Sentiment Analysis Introduction
+# A2. Natural Language Processing and Sentiment Analysis Introduction
 
 ## Brief Introduction to NLP
 
