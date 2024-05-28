@@ -71,7 +71,8 @@ BERT is conceptually simple and empirically powerful. It obtains new state-of-th
  - [Transformers Paper](https://arxiv.org/abs/1706.03762)
 <br>
 
-![image](https://github.com/daniel-satria/XXX/assets/110766651/6a8a09cc-69ea-4518-837d-2092c3df2d59)
+![image](https://github.com/daniel-satria/msib/assets/110766651/5267a59b-4e3e-46ef-8834-1bc276ac456a)
+
 <p align="center"> 
   <i>Bert Model Architecture</i>
 </p>
